@@ -52,9 +52,9 @@ export const NavBar = () => {
             </Nav>
             <span className="navbar-text">
               <div className="social-icon">
-                <a href="#"><img src={navIcon1} alt="" /></a>
-                <a href="#"><img src={navIcon2} alt="" /></a>
-                <a href="#"><img src={navIcon3} alt="" /></a>
+                <a href="https://linkedin.com/in/xu-eddie-74286a347"><img src={navIcon1} alt="" /></a>
+                <a href="https://www.facebook.com/profile.php?id=100008468790978"><img src={navIcon2} alt="" /></a>
+                <a href="https://www.instagram.com/eddieeeee96/"><img src={navIcon3} alt="" /></a>
                 <a href="https://github.com/Eddie-Xu-96"><img src={navIcon4} alt="" /></a>
               </div>
               <HashLink to='#connect'>
